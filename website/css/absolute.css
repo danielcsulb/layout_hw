@@ -1,19 +1,27 @@
 body { text-align: center;
     color: white;
     width: 800px;
+    position: absolute;
 
 }
 
 
 header { background-color: blue;
     height: 40px;
+    position: absolute;
+    top: 0px;
+    width: 800px;
+
+
     
 }
 
 #links { background-color: green;
     text-align: left;
     height: 30px;
-    padding-left: 10px;
+    position: absolute;
+    top: 40px;
+    width: 800px;
 }
 
 #links a{display: inline;
@@ -25,6 +33,9 @@ header { background-color: blue;
 article { background-color: pink;
     width: 66%;
     height: 220px;
+    position: absolute;
+    top: 70px;
+
 
 }
 
@@ -42,13 +53,19 @@ article { background-color: pink;
 }
 
 aside { background-color: cyan;
-    width: 33%;
-    height: 200px;
+    width: 34%;
+    height: 220px;
+    position: absolute;
+    top: 70px;
+    left: 528px;
 
 }
 
 footer{ background-color: green;
     height: 30px;
+    position: absolute;
+    top: 290px;
+    width: 800px;
 
 
 }
