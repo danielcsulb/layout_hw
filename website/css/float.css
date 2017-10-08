@@ -1,0 +1,70 @@
+body { text-align: center;
+    color: white;
+    width: 800px;
+
+
+}
+
+
+header { background-color: blue;
+    height: 40px;
+  
+
+    width: 800px;
+
+
+    
+}
+
+#links { background-color: green;
+    text-align: left;
+    height: 30px;
+    width: 800px;
+}
+
+#links a{display: inline;
+    color: white;
+    padding: 7px;
+
+}
+
+article { background-color: pink;
+    width: 66%;
+    height: 220px;
+    float: left;
+    
+    
+
+
+}
+
+#section1 { background-color: brown;
+    height: 80px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+
+#section2 { background-color: brown;
+    height: 80px;
+    margin-bottom: 10px;
+
+}
+
+aside { background-color: cyan;
+    width: 34%;
+    height: 220px;
+    float: right;
+    
+
+
+}
+
+footer{ background-color: green;
+    height: 30px;
+    width: 800px;   
+    float: left;
+    
+    
+
+}
